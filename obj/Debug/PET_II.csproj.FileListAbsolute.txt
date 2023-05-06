@@ -1,0 +1,48 @@
+D:\C#\Pet II\PET_II\bin\Debug\PET_II.exe.config
+D:\C#\Pet II\PET_II\bin\Debug\PET_II.exe
+D:\C#\Pet II\PET_II\bin\Debug\PET_II.pdb
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.csprojAssemblyReference.cache
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.Properties.Resources.resources
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.csproj.GenerateResource.cache
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.csproj.CoreCompileInputs.cache
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.exe
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.pdb
+D:\C#\Pet II\PET_II\obj\Debug\Interop.MediaPlayer.dll
+D:\C#\Pet II\PET_II\obj\Debug\Interop.WMPLib.dll
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.csproj.ResolveComReference.cache
+D:\C#\Pet II\PET_II\bin\Debug\hsb\PET_II.resources.dll
+D:\C#\Pet II\PET_II\obj\Debug\hsb\PET_II.resources.dll
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.petScreen.resources
+D:\C#\Pet II\PET_II\obj\Debug\PET_II.petScreen.hsb.resources
+D:\下載\_下載\PET_II\bin\Debug\PET_II.exe.config
+D:\下載\_下載\PET_II\bin\Debug\PET_II.exe
+D:\下載\_下載\PET_II\bin\Debug\PET_II.pdb
+D:\下載\_下載\PET_II\bin\Debug\hsb\PET_II.resources.dll
+D:\下載\_下載\PET_II\obj\Debug\PET_II.csprojAssemblyReference.cache
+D:\下載\_下載\PET_II\obj\Debug\Interop.MediaPlayer.dll
+D:\下載\_下載\PET_II\obj\Debug\Interop.WMPLib.dll
+D:\下載\_下載\PET_II\obj\Debug\PET_II.csproj.ResolveComReference.cache
+D:\下載\_下載\PET_II\obj\Debug\PET_II.petScreen.resources
+D:\下載\_下載\PET_II\obj\Debug\PET_II.Properties.Resources.resources
+D:\下載\_下載\PET_II\obj\Debug\PET_II.petScreen.hsb.resources
+D:\下載\_下載\PET_II\obj\Debug\PET_II.csproj.GenerateResource.cache
+D:\下載\_下載\PET_II\obj\Debug\PET_II.csproj.CoreCompileInputs.cache
+D:\下載\_下載\PET_II\obj\Debug\hsb\PET_II.resources.dll
+D:\下載\_下載\PET_II\obj\Debug\PET_II.exe
+D:\下載\_下載\PET_II\obj\Debug\PET_II.pdb
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\bin\Debug\PET_II.exe.config
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\bin\Debug\PET_II.exe
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\bin\Debug\PET_II.pdb
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\bin\Debug\hsb\PET_II.resources.dll
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.csprojAssemblyReference.cache
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\Interop.MediaPlayer.dll
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\Interop.WMPLib.dll
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.csproj.ResolveComReference.cache
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.petScreen.resources
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.Properties.Resources.resources
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.petScreen.hsb.resources
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.csproj.GenerateResource.cache
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.csproj.CoreCompileInputs.cache
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\hsb\PET_II.resources.dll
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.exe
+D:\User\Desktop\雜物\備審相關\課堂作品展示\PET_II\obj\Debug\PET_II.pdb
